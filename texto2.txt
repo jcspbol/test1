@@ -1,2 +1,0 @@
-Hola Git de Nuevo
-Nueva linea en el archivo
